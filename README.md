@@ -3,7 +3,7 @@
 A professional Power BI dashboard designed to monitor, analyze, and evaluate corporate sales performance against predefined budget targets. This project provides deep financial and operational insights into product dynamics, monthly trends, and key performance variances.
 
 ## 📊 Live Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard-screenshot.png)
 
 ## 🎯 Key Metrics & KPIs
 The dashboard tracks vital business health metrics with dynamic filtering by **Product** and **Year**:
